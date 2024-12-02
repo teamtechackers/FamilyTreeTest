@@ -71,17 +71,6 @@ class MyApp extends StatelessWidget {
       child8,
       child9
     ]);
-    /*wife.children.addAll([
-      child1,
-      child2,
-      child3,
-      child4,
-      child5,
-      child6,
-      child7,
-      child8,
-      child9
-    ]);*/
 
     return husband; // Root node
     // return wife;
