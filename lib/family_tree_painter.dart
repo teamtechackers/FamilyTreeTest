@@ -1,5 +1,5 @@
 import 'package:family_tree_test/person_node.dart';
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 
 class FamilyTreePainter extends CustomPainter {
